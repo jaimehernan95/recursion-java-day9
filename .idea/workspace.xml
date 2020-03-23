@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76dfec61-e25c-496a-a278-17f750c7a1e1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZVhowNhErsI6a8PBZZZdPYpjs6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="recursionDay9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursionDay9" />
+      <module name="RecursionDay9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.recursionDay9" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76dfec61-e25c-496a-a278-17f750c7a1e1" name="Default Changelist" comment="" />
+      <created>1584930346746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584930346746</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="996" height="139" key="GridCell.Tab.0.bottom" timestamp="1584932852994">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="996" height="139" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1584932852994" />
+    <state width="996" height="139" key="GridCell.Tab.0.center" timestamp="1584932852993">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="996" height="139" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1584932852993" />
+    <state width="996" height="139" key="GridCell.Tab.0.left" timestamp="1584932852992">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="996" height="139" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1584932852992" />
+    <state width="996" height="139" key="GridCell.Tab.0.right" timestamp="1584932852994">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="996" height="139" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1584932852994" />
+  </component>
+</project>
