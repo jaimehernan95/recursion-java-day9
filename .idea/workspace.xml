@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76dfec61-e25c-496a-a278-17f750c7a1e1" name="Default Changelist" comment="" />
+    <list default="true" id="76dfec61-e25c-496a-a278-17f750c7a1e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RecursionDay9/recursionDay9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RecursionDay9/recursionDay9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactorialExcercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FactorialExcercise.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZVhowNhErsI6a8PBZZZdPYpjs6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,8 +30,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.FactorialExcercise">
+    <configuration name="FactorialExcercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactorialExcercise" />
+      <module name="RecursionDay9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="recursionDay9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursionDay9" />
       <module name="RecursionDay9" />
@@ -33,6 +49,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FactorialExcercise" />
         <item itemvalue="Application.recursionDay9" />
       </list>
     </recent_temporary>
@@ -51,21 +68,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="996" height="139" key="GridCell.Tab.0.bottom" timestamp="1584932852994">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="898" height="195" key="GridCell.Tab.0.bottom" timestamp="1585288473498">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state width="996" height="139" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1584932852994" />
-    <state width="996" height="139" key="GridCell.Tab.0.center" timestamp="1584932852993">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="996" height="139" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1584941960284" />
+    <state width="898" height="195" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1585288473498" />
+    <state width="898" height="195" key="GridCell.Tab.0.center" timestamp="1585288473496">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state width="996" height="139" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1584932852993" />
-    <state width="996" height="139" key="GridCell.Tab.0.left" timestamp="1584932852992">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="996" height="139" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1584941960283" />
+    <state width="898" height="195" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1585288473496" />
+    <state width="898" height="195" key="GridCell.Tab.0.left" timestamp="1585288473496">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state width="996" height="139" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1584932852992" />
-    <state width="996" height="139" key="GridCell.Tab.0.right" timestamp="1584932852994">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="996" height="139" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1584941960283" />
+    <state width="898" height="195" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1585288473496" />
+    <state width="898" height="195" key="GridCell.Tab.0.right" timestamp="1585288473497">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state width="996" height="139" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1584932852994" />
+    <state width="996" height="139" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1584941960284" />
+    <state width="898" height="195" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1585288473497" />
+    <state x="575" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1585287878906">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="575" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1585287878906" />
+    <state x="368" y="159" width="670" height="676" key="search.everywhere.popup" timestamp="1585288329985">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="368" y="159" width="670" height="676" key="search.everywhere.popup/0.23.1440.812@0.23.1440.812" timestamp="1585288329985" />
   </component>
 </project>
